@@ -1,5 +1,5 @@
 
-![Hero Image](https://github.com/Verseity/.github/blob/main/profile/VERSEITY.jpg)
+![Hero Image](https://github.com/Verseium/.github/blob/main/profile/VERSEIUM.png)
 
 [Linkedin](https://www.linkedin.com/groups/12699837/)
 
